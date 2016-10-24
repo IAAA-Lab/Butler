@@ -117,7 +117,7 @@ public class CrawlerCommands implements CommandMarker {
 					response += "Container unpaused";
 				} else {
 
-					command = "docker run -i -d --name=\"" + idContainer + "\" " + idImage;
+					command = "docker run -i -d --name=" + idContainer + " " + idImage;
 					response += "Container started";
 
 				}
