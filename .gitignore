@@ -123,6 +123,9 @@ crashlytics-build.properties
 ### Gradle template
 .gradle
 build/
+gradle
+gradlew.bat
+gradlew
 
 # Ignore Gradle GUI config
 gradle-app.setting
