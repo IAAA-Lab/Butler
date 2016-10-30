@@ -3,6 +3,7 @@
 /butler/juntarSalidas.sh
 /butler/Dockerfile
 /butler/nutch-site.xml
+butler.jar
 
 ### Eclipse template
 *.pydevproject
