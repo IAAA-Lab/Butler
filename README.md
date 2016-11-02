@@ -28,4 +28,3 @@ The client interface has been build using the following technologies:
 * CSS3
 * Bootstrap
 * Javascript & JQuery
-
